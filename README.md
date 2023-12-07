@@ -15,6 +15,11 @@ Why the Ukraine war is good for the Russian Lithium Source.
 - Lithium turns into helium and tritium
 - Cobalt turns into cobalt 60
 
+## Cost of Tritium
+- $30000 estimated price per gram
+- $1/kg Cost of Lithium Scrap
+- Cheap and easy with a neutron source such as nuclear reactors
+
 ## Replenishing the Expiring Tritium in the Nuclear Warheads
 - Nuclear warheads with Tritium needs to be replaced after few half lives of Tritium.
 
