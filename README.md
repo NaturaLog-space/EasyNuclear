@@ -1,4 +1,4 @@
-# EasyNuclear
+# Easy Clean Nuclear
 Nuclear Easy and Cheap 
 Every research is being leaked so I decided that this project should be open source.
 
