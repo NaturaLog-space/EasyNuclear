@@ -23,5 +23,12 @@ Why the Ukraine war is good for the Russian Lithium Source.
 ## Replenishing the Expiring Tritium in the Nuclear Warheads
 - Nuclear warheads with Tritium needs to be replaced after few half lives of Tritium.
 
+## Remote Nuclear Detonator
+- a Farnsworth fusor can be utilized to create a dense neutron source
+- a satellite containing a fusor can deactivate a warhead through rapid decay or remote detonate an icbm warhead.
+- Nuclear countries with satellites can deactivate nuclear bombs.
+- Nuclear bombs with the ability to disable nuclear bombs makes launching nuclear bombs easier.
+
+
 ## Further usages of excess Tritium
 - Lightweight clean Tritium warheads on lightweight drones
