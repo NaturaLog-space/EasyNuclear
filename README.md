@@ -36,7 +36,8 @@ Why the Ukraine war is good for the Russian Lithium Source.
 ## Plutonium refining from U238
 - U235 is hard to obtain
 - U238 is found in nature
-- A fusor can be used to generate neutrons to create plutonium. Pu239 specifically
+- A fusor can be used to generate neutrons to create plutonium. Pu239 weapons grade specifically
+- place U238 into a vessel with a fusor to create plutonium
 - The plutonium can be used as the fission source
 - Low Cost tritium is the fusion fuel
 - Low Cost hydrogen bombs.
